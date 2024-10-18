@@ -1,11 +1,11 @@
+# Tugas Project Aplikasi Pengaduan Masyarakat
+A new Flutter project.
+
 ![alt text](https://github.com/rafael-0403/pengaduanmasyarakat/blob/main/public/homepage.png)
 ![alt text](https://github.com/rafael-0403/pengaduanmasyarakat/blob/main/public/sidebar.png)
 ![alt text](https://github.com/rafael-0403/pengaduanmasyarakat/blob/main/public/Informasi_lingkungan_1.png)
 ![alt text](https://github.com/rafael-0403/pengaduanmasyarakat/blob/main/public/Informasi_lingkungan_2.png)
 ![alt text](https://github.com/rafael-0403/pengaduanmasyarakat/blob/main/public/Profile.png)
-# Tugas Project Aplikasi Pengaduan Masyarakat
-
-A new Flutter project.
 
 ## Getting Started
 
